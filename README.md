@@ -15,7 +15,7 @@ Este projeto realiza uma análise exploratória de dados de vendas de uma empres
 
 ## 🧰 Tecnologias Utilizadas
 
-- Python 3
+- Python
 - Pandas
 - Matplotlib & Seaborn
 - Jupyter Notebook
