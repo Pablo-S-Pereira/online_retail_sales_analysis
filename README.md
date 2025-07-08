@@ -17,7 +17,8 @@ Este projeto realiza uma análise exploratória de dados de vendas de uma empres
 
 - Python
 - Pandas
-- Matplotlib & Seaborn
+- Numpý
+- Matplotlib & Pyplot
 - Jupyter Notebook
 
 ---
