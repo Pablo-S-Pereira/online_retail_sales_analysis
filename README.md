@@ -58,4 +58,4 @@ A análise oferece insights relevantes que podem apoiar decisões estratégicas 
 
 Clique aqui para visualizar o notebook completo:
 
-👉 [`online_retail_sales_analysis.ipynb`]([./online_retail_sales_analysis.ipynb](https://github.com/Pablo-S-Pereira/online_retail_sales_analysis/blob/main/online_retail_sales_analysis%20.ipynb))
+👉 [`online_retail_sales_analysis.ipynb`](https://github.com/Pablo-S-Pereira/online_retail_sales_analysis/blob/main/online_retail_sales_analysis.ipynb)
